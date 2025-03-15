@@ -5,7 +5,7 @@ This project is a custom **HashMap** implementation in JavaScript using **separa
 
 The implementation includes all essential hash map operations: **set, get, remove, has, length, clear, keys, values, and entries**.
 
-This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum, designed to help learners build a deeper understanding of data structures and JavaScript concepts.
+This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 ## Features
 - **Custom Hash Function**: Uses a prime number-based hashing method.
